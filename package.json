@@ -1,6 +1,6 @@
 {
   "name": "gulp-postmortem",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Execute Gulp task on Ctrl-C",
   "main": "index.js",
   "author": "Rik van der Kemp <rik@mief.nl>",
