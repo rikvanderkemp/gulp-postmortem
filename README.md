@@ -6,7 +6,7 @@ Execute Gulp tasks when exiting a gulp task (useful for watchers).
 #Installation
 
 ```
-npm install gulp-postportem
+npm install gulp-postmortem
 ```
 
 #Basic Usage
