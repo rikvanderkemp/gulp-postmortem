@@ -1,16 +1,15 @@
 {
   "name": "gulp-postmortem",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Execute Gulp task on Ctrl-C",
   "main": "index.js",
   "author": "Rik van der Kemp <rik@mief.nl>",
   "license": "MIT",
-  "repository" :
-  {
-    "type" : "git",
-    "url" : "https://github.com/rikvanderkemp/gulp-postmortem"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rikvanderkemp/gulp-postmortem"
   },
-  "keywords" : [
+  "keywords": [
     "exit",
     "task",
     "watcher",
