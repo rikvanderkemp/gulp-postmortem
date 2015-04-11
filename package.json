@@ -5,6 +5,17 @@
   "main": "index.js",
   "author": "Rik van der Kemp <rik@mief.nl>",
   "license": "MIT",
+  "repository" :
+  {
+    "type" : "git",
+    "url" : "https://github.com/rikvanderkemp/gulp-postmortem"
+  },
+  "keywords" : [
+    "exit",
+    "task",
+    "watcher",
+    "clean"
+  ],
   "dependencies": {
     "lodash": "^3.6.0",
     "map-stream": "0.0.5"
