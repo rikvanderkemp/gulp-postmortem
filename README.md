@@ -5,7 +5,9 @@ Execute Gulp tasks when exiting a gulp task (useful for watchers).
 
 #Installation
 
-Since this plugin is not yet in NPM, clone this project into node-modules.
+```
+npm install gulp-postportem
+```
 
 #Basic Usage
 
