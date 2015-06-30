@@ -1,6 +1,6 @@
 {
   "name": "gulp-postmortem",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Execute Gulp task on Ctrl-C",
   "main": "index.js",
   "author": "Rik van der Kemp <rik@mief.nl>",
@@ -16,15 +16,15 @@
     "clean"
   ],
   "dependencies": {
-    "lodash": "^3.6.0",
-    "map-stream": "0.0.5"
+    "lodash": "^3.*",
+    "map-stream": "0.1.*"
   },
   "devDependencies": {
-    "gulp": "^3.8.11",
-    "gulp-jshint": "^1.10.0",
-    "gulp-jslint-simple": "^1.0.0",
-    "gulp-mocha": "^2.0.1",
-    "gulp-taskfromstreams": "^1.0.0"
+    "gulp": "^3.*",
+    "gulp-jshint": "^1.*",
+    "gulp-jslint-simple": "^1.*",
+    "gulp-mocha": "^2.*",
+    "gulp-taskfromstreams": "^1.*"
   },
   "scripts": {
     "lint": "gulp lint"
