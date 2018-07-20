@@ -1,4 +1,4 @@
-NO LONGER MAINTED TO BE EXPIRED SOON
+NO LONGER MAINTAINED TO BE EXPIRED SOON
 =========
 
 Due to me not using Gulp anymore and so not maintaining this package anymore I am going to put this repo to sleep.
