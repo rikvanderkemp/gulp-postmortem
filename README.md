@@ -1,3 +1,11 @@
+NO LONGER MAINTED TO BE EXPIRED SOON
+=========
+
+Due to me not using Gulp anymore and so not maintaining this package anymore I am going to put this repo to sleep.
+If you need this package please fork!
+
+Expected removal of package: 31st of August 2018
+
 gulp-postmortem
 =========
 
