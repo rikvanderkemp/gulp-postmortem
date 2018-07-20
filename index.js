@@ -4,6 +4,10 @@
 var map = require('map-stream'),
     lodash = require('lodash');
 
+console.log('\x1b[31m', '='.repeat(80))
+console.log('\x1b[31m', 'WARNING! gulp-postmortem to be removed soon!')
+console.log('\x1b[31m', '='.repeat(80))
+
 module.exports = function (options) {
     function postMortem() {
         var stdin = process.stdin;
